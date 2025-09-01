@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: "Commander",
+  name: "AppCommander",
 };
 </script>
 

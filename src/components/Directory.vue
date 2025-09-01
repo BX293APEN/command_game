@@ -13,7 +13,7 @@
 <script>
 import Directory from "@/components/Directory"
 export default {
-  name: "Directory",
+  name: "AppDirectory",
   components: {
     Directory
   },

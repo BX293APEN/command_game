@@ -9,7 +9,7 @@
 <script>
 import Directory from "@/components/Directory"
 export default {
-  name: "Game",
+  name: "GameView",
   components: {
     Directory
   },

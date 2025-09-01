@@ -16,7 +16,7 @@ import CommandLine from "@/components/CommandLine.vue";
 import Commander from "@/components/Commander.vue";
 
 export default {
-  name: "home",
+  name: "HomeView",
   components: {
     Game,
     CommandLine,
